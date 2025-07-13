@@ -1,4 +1,4 @@
 ### Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NPSummers/VynapseX/refs/heads/main/VX.obfuscated.lua"))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NPSummers/EternalBlue/refs/heads/main/EternalBlue.obfuscated.lua"))() 
 ```
